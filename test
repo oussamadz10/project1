@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<tête>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=largeur-de-l'appareil, échelle-initiale=1.0">
+    <title>Ouvrir une page</teste>
+</tête>
+<corps>
+    <h1>Bienvenue sur ma page</h1>
+    <p>Cliquez sur le lien ci-dessous pour ouvrir une nouvelle page :</p>
+    <!-- www.test.com -->
+    <a href="https://www.exemple.com" target="_blank">Ouvrir un site externe</a>
+</body>
+</html>
